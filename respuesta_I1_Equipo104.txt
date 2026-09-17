@@ -4,3 +4,5 @@ Sánchez Agustina
 
 a- Sí, una vez que se realizan los cambios y se utiliza git push ALFA puede ver los datos
 b- Sí, al hacer el git push todos los integrantes pueden ver lo que modificó ALFA
+c- Sí, al hacer git push los demás integrantes pueden ver lo que modificó BETA
+d- La comunicación fue principalmente vía whatsapp y discord
