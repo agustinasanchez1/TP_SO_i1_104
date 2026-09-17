@@ -6,3 +6,5 @@ a- Sí, una vez que se realizan los cambios y se utiliza git push ALFA puede ver
 b- Sí, al hacer el git push todos los integrantes pueden ver lo que modificó ALFA
 c- Sí, al hacer git push los demás integrantes pueden ver lo que modificó BETA
 d- La comunicación fue principalmente vía whatsapp y discord
+e- La mejor forma que encontramos para comunicarnos dentro de github es mediante la solapa "Proyectos",
+ ya que nos permite saber qué cosas están sin iniciar, cuales están incompletas y cuales están terminadas
